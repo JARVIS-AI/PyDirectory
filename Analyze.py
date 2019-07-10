@@ -25,7 +25,7 @@ def parseArguments():
     parser = argparse.ArgumentParser()
 
     # Print version
-    parser.add_argument("-v", "--version", action="version", version='%(prog)s - Version 2.0.1')
+    parser.add_argument("-v", "--version", action="version", version='%(prog)s - Version 2.0.3')
 
     # NEED HELP FPR MAKING THIS POSSIBLE 
     parser.add_argument("-nd", "--number-directory", dest='NumDirectory', action='store',  help="Number of items in Directory")
