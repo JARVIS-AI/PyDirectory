@@ -23,9 +23,22 @@ $ python [NAME-OF-FILE].py --ARGUMENTS
 1. Analyzer.py --> this file is set of tools and commands work on directory like ``ls -l`` or ``Number of files and items in directory`` and others
 2. DirectoryLister --> this file is simple python code for number of items on directory
 
-
 ### ToDo
 
 We have something to do in future to make this more completely and implement more feature
 
-as
+- [ ]  Add delete function
+
+- [ ]  Add Recursive option for show directory
+
+- [ ]  Add tree style
+
+- [ ]  Add type condition 
+
+- [ ]  Add ignore condition
+
+- [ ]  Colorful Output
+
+- [ ]  More optimize code
+
+
