@@ -1,17 +1,6 @@
 #!/usr/bin/python
 # coding: utf-8
 
-# def Help():
-#     print()
-#     print(" " + 55 * "-")
-#     print("|                   Directory Worker                    |")
-#     print("| Written by Jarvis Mercer                              |")
-#     print("| https://github.com/JARVIS-AI                          |")
-#     print("| Version = " + Version() + "                                       |")
-#     print("| Choose your option                                    |")
-#     print(" " + 55 * "-")
-#     print()
-
 
 from fnmatch import filter
 import os
