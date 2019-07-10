@@ -5,14 +5,14 @@ Directory Analyzer , List, Number and Other useful things for a directory in sys
 This is set of python codes that help develoeprs and programmer to use this codes in their apps and products 
 Also you can use them as standalone app
 
-## Requirements
+## ⚓ Requirements
 
 1. Python 3
 2. Virtual ENV for big project
 3. Caution for not delete your directory and items
 4. known some commandline
 
-## Usage
+## 🚊 Usage
 
 > With Arguments
 
@@ -30,12 +30,12 @@ $ python [NAME-OF-FILE].py --ARGUMENTS
 $ python [NAME-OF-FILE].py
 ```
 
-### Info
+### ℹ Info
 
 1. Analyzer.py --> this file is set of tools and commands work on directory like ``ls -l`` or ``Number of files and items in directory`` and others
 2. DirectoryLister --> this file is simple python code for number of items on directory
 
-### ToDo
+### 💡 ToDo
 
 We have something to do in future to make this more completely and implement more feature
 
@@ -58,3 +58,34 @@ We have something to do in future to make this more completely and implement mor
 - [ ]  Colorful Output
 
 - [ ]  More optimize code
+
+## 📝 License
+
+This project is under GPLv3
+
+
+## 🐱‍👤 Author
+
+Jarvis Mercer
+
+## ✏ Contribute
+
+Any code and suggesstion and help are welcome, PLEASE DO IT
+
+```md
+**Fork it**
+
+**Make your changes**
+
+**Pull request**
+
+**Wait for Travis CI to complete**
+
+**If there is not any problem I will see your changes and merge it**
+
+**Thanks**
+```
+
+## 📞 Contact
+
+My Github profile shows your everthing 😉
