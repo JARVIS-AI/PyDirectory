@@ -14,8 +14,20 @@ Also you can use them as standalone app
 
 ## Usage
 
+> With Arguments
+
+
 ```sh
 $ python [NAME-OF-FILE].py --ARGUMENTS
+```
+
+<br>
+
+> Without Arguments
+
+
+```sh
+$ python [NAME-OF-FILE].py
 ```
 
 ### Info
@@ -46,5 +58,3 @@ We have something to do in future to make this more completely and implement mor
 - [ ]  Colorful Output
 
 - [ ]  More optimize code
-
-
