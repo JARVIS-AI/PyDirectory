@@ -27,6 +27,12 @@ $ python [NAME-OF-FILE].py --ARGUMENTS
 
 We have something to do in future to make this more completely and implement more feature
 
+- [x]  Add Number of Directory
+
+- [x]  Add Lister of directory
+
+- [x]  Add arguments input
+
 - [ ]  Add delete function
 
 - [ ]  Add Recursive option for show directory
